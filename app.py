@@ -31,7 +31,7 @@ class App:
 
     def check_data(self):
         f"""
-        # Select Data
+        # Select Dat
         """
         if isinstance(self.df, pd.DataFrame):
             st.write("Data already exists")
